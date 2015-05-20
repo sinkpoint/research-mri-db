@@ -1,0 +1,14 @@
+{% extends 'patientdb/blank.html' %}
+{% load render_table from django_tables2 %}
+{% block css %}
+    <link rel="stylesheet" href="/static/css/tables2.css" />
+    <link rel="stylesheet" href="/static/css/bootstrap-tables2.css" />
+{% endblock css %}
+{% block content %}
+<div class="row">
+{% render_table table "patientdb/table.html" %}
+</div>
+
+{% endblock content %}
+
+

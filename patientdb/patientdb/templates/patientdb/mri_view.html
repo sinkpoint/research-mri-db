@@ -1,0 +1,69 @@
+{% extends "patientdb/blank.html" %}
+
+{% block content %}
+<div class="row">
+    <div class="col-md-8">
+    <h1 class="page-heading">MRI</h1>
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            Details
+            <div class="pull-right">
+                <div class="btn-group">
+                <button type="button" class="dropdown-toggle btn btn-primary btn-xs" data-toggle="dropdown">Actions</button>
+                <ul class="dropdown-menu pull-right" role="dropdown">
+                    <li><a href=""><i class="fa fa-edit"> Edit</i></a></li>
+                    <li><a href=""><i class="fa fa-trash"> Delete</i></a></li>
+                </ul>
+                </div>
+            </div>
+        </div>
+        <div class="panel-body">
+            <dl class="dl-horizontal">
+                <dt>ID</dt>
+                <dd>{{patient.id}}</dd>
+                <dt>Name</dt>
+                <dd>{{patient.name}}</dd>
+                <dt>Sex</dt>
+                <dd>{{patient.get_gender_display}}</dd>
+                <dt>Birthday</dt>
+                <dd>{{patient.birthday}}</dd>
+                <dt>Age at enrollment</dt>
+                <dd>{{patient.age_added}}</dd>
+                <dt>Handedness</dt>
+                <dd>{{patient.get_handedness_display}}</dd>
+
+                <hr />
+
+                <dt>Phone</dt>
+                <dd>{{patient.phone}}</dd>
+                <dt>Email</dt>
+                <dd>{{patient.email}}</dd>
+            </dl>
+        </div>
+
+    </div>
+    <div class="panel panel-default">
+        <div class="panel-heading">Project Participations
+            <div class="pull-right">
+                <div class="btn-group">
+                <button type="button" class="dropdown-toggle btn btn-primary btn-xs" data-toggle="dropdown">Actions</button>
+                <ul class="dropdown-menu pull-right" role="dropdown">
+                    <li><a href=""><i class="fa fa-edit"> Edit</i></a></li>
+                    <li><a href=""><i class="fa fa-trash"> Delete</i></a></li>
+                </ul>
+                </div>
+            </div>
+        </div>
+        <div class="panel-body">
+            <div class="list-group">
+        {% for p in patient.projs.all %}
+            <a class="list-group-item" href="{% url 'proj_view' p.id %}">{{p.title}}</a>
+        {% endfor %}
+            </div>
+        </div>
+    </div>
+
+    </div>
+</div>
+
+{% endblock content %}

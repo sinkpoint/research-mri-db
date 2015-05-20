@@ -1,0 +1,918 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"patient",
+				"patient_age_dist	function"
+			],
+			[
+				"TEMP",
+				"TEMPLATE_LOADERS"
+			],
+			[
+				"For",
+				"ForeignKey"
+			],
+			[
+				"Patie",
+				"PatientTable"
+			],
+			[
+				"Int",
+				"IntegerField	class"
+			],
+			[
+				"order",
+				"order_by"
+			],
+			[
+				"Pub",
+				"PubTechProdResult"
+			],
+			[
+				"Owl",
+				"OwlCarousel"
+			],
+			[
+				"owl",
+				"owlCarousel"
+			],
+			[
+				"url",
+				"urlparse	function"
+			],
+			[
+				"_get",
+				"_get_catids_from_q	function"
+			],
+			[
+				"tensr",
+				"tensor2vector"
+			],
+			[
+				"D",
+				"Diffusion_WITH_REVERSEPHASE"
+			],
+			[
+				"exec",
+				"exec_cmd"
+			],
+			[
+				"print",
+				"print_help"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"width",
+				"widthratio	widthratio"
+			],
+			[
+				"doc__",
+				"doc__publisher"
+			],
+			[
+				"log",
+				"log_ap"
+			],
+			[
+				"query",
+				"query_set"
+			],
+			[
+				"render",
+				"render_to_response"
+			],
+			[
+				"sty",
+				"stylesheet"
+			],
+			[
+				"war",
+				"warning	function"
+			],
+			[
+				"PubPro",
+				"PubProductName	class"
+			],
+			[
+				"plot",
+				"pyplot	module"
+			],
+			[
+				"Sci",
+				"ScinPubFigure"
+			],
+			[
+				"font",
+				"fontweight"
+			],
+			[
+				"tech_",
+				"tech_parental_name"
+			],
+			[
+				"perce",
+				"percent-change"
+			],
+			[
+				"Url",
+				"URLField	class"
+			],
+			[
+				"temp",
+				"template_name"
+			],
+			[
+				"Contac",
+				"ContactView	class"
+			],
+			[
+				"Tet",
+				"TextField"
+			],
+			[
+				"final",
+				"final_name"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"paralla",
+				"parallaxBg"
+			],
+			[
+				"FREES",
+				"FREESURFER_HOME"
+			],
+			[
+				"conn",
+				"conn_geometry"
+			],
+			[
+				"line",
+				"line_pairs"
+			],
+			[
+				"_IS",
+				"_IS_RENDER_STEREO"
+			],
+			[
+				"_S",
+				"_IS_PLAY_AUDIO"
+			],
+			[
+				"scale",
+				"scale_source_array"
+			],
+			[
+				"sound",
+				"sound_source_array"
+			],
+			[
+				"material",
+				"materialRight"
+			],
+			[
+				"mate",
+				"materialRight"
+			],
+			[
+				"source",
+				"sourcesGeometry"
+			],
+			[
+				"coord",
+				"coord_array"
+			],
+			[
+				"V",
+				"Vector3"
+			],
+			[
+				"tra",
+				"translate"
+			],
+			[
+				"time",
+				"times_array"
+			],
+			[
+				"route",
+				"routexml"
+			],
+			[
+				"shor",
+				"shortTitle"
+			],
+			[
+				"use",
+				"useForUI"
+			],
+			[
+				"get",
+				"getAllRoutes  (function)"
+			],
+			[
+				"Ne",
+				"NextBusNetworkHandler"
+			],
+			[
+				"A",
+				"AGENCY_LIST  (variable)"
+			],
+			[
+				"NextBus",
+				"NextBusNetworkHandler"
+			],
+			[
+				"Nex",
+				"NextBusNetworkHandler"
+			],
+			[
+				"short",
+				"short_title"
+			],
+			[
+				"stops",
+				"stopTags"
+			],
+			[
+				"dire",
+				"directions"
+			],
+			[
+				"proc",
+				"procRouteConfig"
+			],
+			[
+				"lonM",
+				"lonMax"
+			],
+			[
+				"obj",
+				"objectify"
+			],
+			[
+				"NB",
+				"NextBusNetworkHandler"
+			],
+			[
+				"obje",
+				"objectify	(imported, instance)"
+			],
+			[
+				"Rou",
+				"ROUTE_TAG  (variable)"
+			],
+			[
+				"R",
+				"ROUTE_CONFIG  (variable)"
+			],
+			[
+				"Ro",
+				"ROUTE_LIST  (variable)"
+			],
+			[
+				"N",
+				"NextBusUri"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "html",
+		"selected_items":
+		[
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"updgr",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"upd",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"install the",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"install theme",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"browse",
+				"Colorsublime: Browse Themes"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"colorsu",
+				"Colorsublime: Browse Themes"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"retti",
+				"HTMLPrettify"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"h",
+				"HTMLPrettify"
+			],
+			[
+				"beau",
+				"HTMLBeautify"
+			],
+			[
+				"djan",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"bea",
+				"HTMLBeautify"
+			],
+			[
+				"submerge",
+				"Sublimerge"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Javatar: Operations..."
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Rot13 Selection"
+			],
+			[
+				"repl:ipy",
+				"SublimeREPL: Python - IPython"
+			],
+			[
+				"repl",
+				"SublimeREPL: Python"
+			],
+			[
+				"code",
+				"SublimeCodeIntel: Disable Plugin"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"sublimeCod",
+				"SublimeCodeIntel: Disable Plugin"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"GitGutter: Show Comparing Against"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: all",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 583.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/sinkpoint/Dropbox/dev/patientdb/patientdb",
+		"/Users/sinkpoint/Dropbox/dev/patientdb/patientdb/patientdb",
+		"/Users/sinkpoint/Dropbox/dev/patientdb/patientdb/patientdb/templates",
+		"/Users/sinkpoint/Dropbox/dev/patientdb/patientdb/static",
+		"/Users/sinkpoint/Dropbox/dev/patientdb/patientdb/static/css"
+	],
+	"file_history":
+	[
+		"/Users/sinkpoint/Dropbox/dev/patientdb/patientdb/patientdb/urls.py",
+		"/Users/sinkpoint/Dropbox/dev/patientdb/patientdb/patientdb/api_urls.py",
+		"/Users/sinkpoint/Dropbox/dev/patientdb/patientdb/patientdb/settings.py",
+		"/Users/sinkpoint/Dropbox/dev/patientdb/patientdb/patientdb/graph_api.py",
+		"/Users/sinkpoint/Dropbox/dev/patientdb/patientdb/patientdb/models.py",
+		"/Users/sinkpoint/Dropbox/dev/patientdb/patientdb/patientdb/views.py",
+		"/Users/sinkpoint/Dropbox/dev/patientdb/patientdb/patientdb/templates/patientdb/mri_view.html",
+		"/Users/sinkpoint/Dropbox/dev/patientdb/patientdb/manage.py",
+		"/Users/sinkpoint/Dropbox/dev/patientdb/patientdb/patientdb/tables.py",
+		"/Users/sinkpoint/Dropbox/dev/patientdb/patientdb/patientdb/templates/patientdb/pat_view.html",
+		"/Users/sinkpoint/Dropbox/dev/patientdb/patientdb/patientdb/templates/patientdb/proj_view.html",
+		"/Users/sinkpoint/Dropbox/dev/patientdb/patientdb/patientdb/templates/patientdb/table_index.html",
+		"/Users/sinkpoint/Dropbox/dev/patientdb/patientdb/patientdb/templates/patientdb/table.html",
+		"/Users/sinkpoint/Dropbox/dev/patientdb/patientdb/patientdb/templates/patientdb/blank.html",
+		"/Users/sinkpoint/Dropbox/dev/patientdb/patientdb/patientdb/templates/patientdb/nav.html",
+		"/Users/sinkpoint/Dropbox/dev/patientdb/patientdb/static/bower.json",
+		"/Users/sinkpoint/Dropbox/dev/patientdb/patientdb/patientdb/templates/patientdb/patients_index.html",
+		"/Users/sinkpoint/Dropbox/dev/patientdb/patientdb/static/bower_components/font-awesome/css/font-awesome.min.css",
+		"/Users/sinkpoint/Dropbox/dev/patientdb/patientdb/patientdb/templates/account/login.html",
+		"/Users/sinkpoint/Dropbox/dev/scinapsisdev/scinapsis/search/templates/account/signup.html",
+		"/Users/sinkpoint/Dropbox/dev/scinapsisdev/scinapsis/search/templates/account/login.html",
+		"/Users/sinkpoint/Dropbox/dev/scinapsisdev/scinapsis/search/templates/account/password_reset.html",
+		"/Users/sinkpoint/Dropbox/dev/scinapsisdev/scinapsis/search/templates/base.html",
+		"/Users/sinkpoint/Dropbox/dev/scinapsisdev/scinapsis/static/css/my_theme.css",
+		"/Users/sinkpoint/Dropbox/dev/scinapsisdev/scinapsis/search/search/views.py",
+		"/Users/sinkpoint/Dropbox/dev/scinapsisdev/scinapsis/search/search/settings.py",
+		"/Users/sinkpoint/Dropbox/dev/scinapsisdev/scinapsis/search/templates/account/base.html",
+		"/Users/sinkpoint/Dropbox/dev/scinapsisdev/scinapsis/search/search/urls.py",
+		"/Users/sinkpoint/Dropbox/dev/scinapsisdev/scinapsis/static/css/custom.css",
+		"/Users/sinkpoint/Dropbox/dev/scinapsisdev/scinapsis/search/templates/base_w_header.html",
+		"/Users/sinkpoint/Dropbox/dev/scinapsisdev/scinapsis/search/search/forms.py",
+		"/Users/sinkpoint/Dropbox/dev/scinapsis.sublime-project",
+		"/Users/sinkpoint/Dropbox/dev/patientdb/patientdb/patientdb/templates/patientdb/table_controls.html",
+		"/Users/sinkpoint/Library/Application Support/Sublime Text 3/Packages/Djaneiro/Settings/HTML (Django).sublime-settings",
+		"/Users/sinkpoint/Dropbox/dev/patientdb/patientdb/patientdb/templates/account/signup.html",
+		"/Users/sinkpoint/Dropbox/dev/patientdb/patientdb/patientdb/templates/account/logout.html",
+		"/Users/sinkpoint/Dropbox/dev/patientdb/patientdb/patientdb/templates/account/password_reset.html",
+		"/Users/sinkpoint/Dropbox/dev/patientdb/patientdb/patientdb/templates/base.html",
+		"/Users/sinkpoint/Dropbox/dev/patientdb/patientdb/patientdb/templates/patientdb/top_nav.html",
+		"/Users/sinkpoint/Dropbox/dev/patientdb/patientdb/patientdb/templates/account/base.html",
+		"/Users/sinkpoint/Dropbox/dev/patientdb/patientdb/patientdb/templates/patientdb/login.html",
+		"/Users/sinkpoint/Dropbox/dev/scinapsisdev/scinapsis/search/search/templates/search/index.html",
+		"/Users/sinkpoint/Dropbox/dev/scinapsisdev/scinapsis/search/templates/login.html",
+		"/Users/sinkpoint/Dropbox/dev/scinapsisdev/scinapsis/search/search/templates/search/view.html",
+		"/Users/sinkpoint/ssh-sinkpoint-aws.sh",
+		"/Users/sinkpoint/Dropbox/dev/scinapsisdev/scinapsis/search/search/templates/search/dash_base.html",
+		"/Users/sinkpoint/Dropbox/dev/scinapsisdev/scinapsis/search/search/templates/search/widget_search_history.html",
+		"/Users/sinkpoint/Dropbox/dev/scinapsisdev/scinapsis/static/css/owl.theme.scp.css",
+		"/Users/sinkpoint/Dropbox/dev/scinapsisdev/scinapsis/search/search/templates/search/index_base.html",
+		"/Users/sinkpoint/Dropbox/dev/scinapsisdev/scinapsis/search/userprofile/templates/userprofile/login_toolbar.html",
+		"/Users/sinkpoint/Dropbox/dev/scinapsisdev/scinapsis/search/userprofile/templates/userprofile/edit.html",
+		"/Users/sinkpoint/Dropbox/dev/scinapsisdev/scinapsis/search/userprofile/templates/userprofile/view.html",
+		"/Users/sinkpoint/Dropbox/dev/scinapsisdev/scinapsis/search/userprofile/models.py",
+		"/Users/sinkpoint/Dropbox/dev/scinapsisdev/scinapsis/search/search/templates/search/dashboard.html",
+		"/Users/sinkpoint/Dropbox/dev/patientdb/patientdb/patientdb/templates/nav.html",
+		"/Users/sinkpoint/Dropbox/dev/patientdb/patientdb/patientdb/templates/blank.html",
+		"/Users/sinkpoint/Library/Application Support/Sublime Text 3/Packages/User/ClickableUrls.sublime-settings",
+		"/Users/sinkpoint/Library/Application Support/Sublime Text 3/Packages/LinkOpener/linkopener.sublime-settings",
+		"/Users/sinkpoint/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/sinkpoint/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/sinkpoint/Dropbox/research/ap_register/sandbox.py",
+		"/Users/sinkpoint/Dropbox/research/ap_register/stats_mi_n20_all.csv",
+		"/Users/sinkpoint/Dropbox/research/ap_register/stats_cc_n20_all.csv",
+		"/Users/sinkpoint/Dropbox/dev/scinapsisdev/scinapsis/search/search/templates/search/figure_item.html",
+		"/Users/sinkpoint/Dropbox/dev/scinapsisdev/scinapsis/search/search/templatetags/search_filters.py",
+		"/Users/sinkpoint/Dropbox/dev/scinapsisdev/scinapsis/src/templates/home.html",
+		"/Users/sinkpoint/Dropbox/dev/scinapsisdev/scinapsis/search/search/models.py",
+		"/Users/sinkpoint/neuro-scripts/makeIso.py",
+		"/Users/sinkpoint/.mrtrix.conf",
+		"/Users/sinkpoint/neuro-scripts/finitestrain.py",
+		"/Users/sinkpoint/neuro-scripts/mrtrix_compcsd.sh",
+		"/Users/sinkpoint/Dropbox/research/mtt_anat/gts/tractography/mrtrix.py",
+		"/Users/sinkpoint/Dropbox/research/ap_register/runAntsDwiToT1.sh",
+		"/Users/sinkpoint/Documents/ISMRM_2015_Tracto_challenge_data_with_reversed_phase/topup_movpar.txt",
+		"/Users/sinkpoint/Documents/ISMRM_2015_Tracto_challenge_data_with_reversed_phase/upblip.txt",
+		"/Users/sinkpoint/Dropbox/research/mtt_anat/gts/groupTractStats.py",
+		"/Users/sinkpoint/neuro-scripts/eddycor.py",
+		"/Users/sinkpoint/Dropbox/dev/scinapsisdev/scinapsis/search/search/wsgi.py",
+		"/Users/sinkpoint/runAp2T1.py",
+		"/Users/sinkpoint/exit",
+		"/Users/sinkpoint/Documents/ISMRM_2015_Tracto_challenge_data_with_reversed_phase/aq_params.txt",
+		"/Users/sinkpoint/Documents/ISMRM_2015_Tracto_challenge_data_with_reversed_phase/b02b0.cnf",
+		"/Users/sinkpoint/Documents/ISMRM_2015_Tracto_challenge_data_with_reversed_phase/ls",
+		"/Users/sinkpoint/.bash_profile",
+		"/Users/sinkpoint/Documents/ISMRM_2015_Tracto_challenge_data_with_reversed_phase/Diffusion_WITH_REVERSEPHASE.bvals",
+		"/Users/sinkpoint/research/mtt_anat/gts/gtsutils.py",
+		"/Users/sinkpoint/Dropbox/dev/scinapsisdev/scinapsis/search/search/templates/search/404.html",
+		"/Users/sinkpoint/Dropbox/dev/scinapsisdev/scinapsis/search/search/templates/search/index_method.html",
+		"/Users/sinkpoint/Dropbox/research/ap_register/runAp2T1.py",
+		"/Users/sinkpoint/qball/ap_test.py",
+		"/Users/sinkpoint/qball/sh_to_apm.py",
+		"/Users/sinkpoint/Dropbox/research/ap_register/sh_to_apm.py",
+		"/Users/sinkpoint/Dropbox/dev/scinapsisdev/scinapsis/search/forms.py",
+		"/Users/sinkpoint/Dropbox/dev/scinapsisdev/scinapsis/src/mvp_landing/settings.py",
+		"/Users/sinkpoint/Dropbox/dev/scinapsisdev/scinapsis/src/mvp_landing/urls.py",
+		"/Users/sinkpoint/Dropbox/dev/scinapsisdev/Scinapsis-Icons-elements/glyph_ttf/style.css",
+		"/Users/sinkpoint/Dropbox/dev/scinapsisdev/scinapsis/static/assets/plugins/bootstrap/js/bootstrap.min.js",
+		"/Users/sinkpoint/Downloads/company.svg",
+		"/Users/sinkpoint/Downloads/home (1).svg",
+		"/Applications/Autodesk/maya2014/License.env",
+		"/Users/sinkpoint/ssh-scinapsis.sh",
+		"/Users/sinkpoint/sftp-scinapsis.sh",
+		"/Users/sinkpoint/Dropbox/dev/scinapsisdev/scinapsis/src/search/templates/search/dashboard.html",
+		"/Users/sinkpoint/Dropbox/dev/scinapsisdev/scinapsis/src/search/autocomplete_light_registry.py",
+		"/Users/sinkpoint/Dropbox/dev/scinapsisdev/scinapsis/src/search/urls.py",
+		"/Users/sinkpoint/Dropbox/research/mtt_anat/stats/conf_vagus_tract_time_stats.csv",
+		"/Users/sinkpoint/Dropbox/research/mtt_anat/stats/collect_stats.py",
+		"/Users/sinkpoint/Dropbox/research/mtt_anat/nos_stats.py",
+		"/Users/sinkpoint/Dropbox/research/mtt_anat/stats/conf_fornix_conj_files.txt.csv",
+		"/Users/sinkpoint/Dropbox/research/mtt_anat/stats/conf_fornix_unfiltered_conj_files.txt.csv",
+		"/Users/sinkpoint/Dropbox/research/mtt_anat/stats/conf_lgn_conj_files.txt.csv",
+		"/Users/sinkpoint/Dropbox/research/mtt_anat/stats/conf_lgn_unfiltered_conj_files.txt.csv",
+		"/Users/sinkpoint/Dropbox/research/mtt_anat/stats/conf_mgn_conj_files.txt.csv",
+		"/Users/sinkpoint/Dropbox/dev/scinapsisdev/scinapsis/src/search/templates/dashboard.html",
+		"/Users/sinkpoint/Dropbox/dev/scinapsisdev/scinapsis/src/templates/base.html",
+		"/Users/sinkpoint/Dropbox/dev/scinapsisdev/scinapsis/src/templates/about.html",
+		"/Users/sinkpoint/Dropbox/dev/scinapsisdev/scinapsis/src/templates/archives.html",
+		"/Users/sinkpoint/Dropbox/research/ap_register/run_stats.r",
+		"/Users/sinkpoint/Dropbox/dev/scinapsisdev/scinapsis/src/templates/post.html",
+		"/Users/sinkpoint/Dropbox/dev/scinapsisdev/scinapsis/src/blog/models.py",
+		"/Users/sinkpoint/Dropbox/dev/scinapsisdev/scinapsis/src/blog/migrations/0003_auto_20150129_1911.py",
+		"/Users/sinkpoint/Dropbox/dev/scinapsisdev/scinapsis/src/insp.py",
+		"/Users/sinkpoint/Dropbox/research/mtt_anat/fiber_seg.py",
+		"/Users/sinkpoint/Dropbox/dev/scinapsisdev/scinapsis/src/blog/migrations/0002_auto_20150129_1841.py",
+		"/Users/sinkpoint/Dropbox/dev/scinapsisdev/scinapsis/src/blog/migrations/__init__.py",
+		"/Users/sinkpoint/Dropbox/dev/scinapsisdev/scinapsis/static/css/theme-colors/purple.css",
+		"/Users/sinkpoint/Dropbox/dev/scinapsisdev/scinapsis/src/templates/blog_item.html",
+		"/Users/sinkpoint/Dropbox/dev/scinapsisdev/scinapsis/src/templates/blog.html"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 155.0,
+		"where_history":
+		[
+			"/Users/sinkpoint/Dropbox/dev/scinapsisdev/scinapsis/static,*.css",
+			"/Users/sinkpoint/Dropbox/dev/scinapsisdev/scinapsis",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"TEMPLATE_LOADERS",
+			"font-awesome",
+			"font-awesomes",
+			"patient.",
+			"citation",
+			"get_cat",
+			"keywords",
+			"managed = False",
+			"../",
+			"{{",
+			"block",
+			"owl-carousel",
+			"olw",
+			"owl",
+			"dropdown ",
+			"dropdown",
+			"obj_data",
+			"target_human",
+			"page",
+			"sb-admin",
+			"dist",
+			"../",
+			"PROJECT_DIR",
+			"http",
+			"link",
+			"warp",
+			"SyN",
+			"Initial",
+			"Affine",
+			"'warp'",
+			"warp",
+			"Affine\\+SyN",
+			"none",
+			"affine",
+			"warp",
+			"2x",
+			"btn-u-md",
+			"btn-u-xs",
+			"data",
+			"collapseOne",
+			"plot_percent_change_wa",
+			".list.0",
+			"list",
+			".list.0",
+			"color_func",
+			"_get_catids_from_q",
+			"correct_bvecs",
+			",",
+			" ",
+			"form",
+			"svg",
+			"fitem.",
+			"pinfo.doc",
+			"entry.list.0",
+			"_query_constructor",
+			"= ",
+			"_query_constructor",
+			"affine",
+			"dtproc",
+			"normalize_data",
+			"gtab",
+			"sh_coeffs",
+			"coeffs_mtx",
+			"data",
+			"gtab",
+			"QballModel",
+			"peaks_from_nifti",
+			"peaks",
+			"sh_coeffs",
+			"sh_to_ap",
+			"math.log",
+			"login",
+			"user",
+			"#",
+			"url",
+			"TEMPLATE",
+			"TEMPLATE_DIRS",
+			"fig",
+			"doc",
+			"qt",
+			"AUTHENTICATION",
+			"fil_data",
+			"nos_data",
+			"fil_data",
+			"nos_data",
+			"col_csv",
+			"0.9",
+			"sns",
+			"contacts",
+			"TEMPLATE_LOaDER",
+			"TAFFINE",
+			"EMAIL_HOST",
+			"email",
+			"btn-success",
+			".btn",
+			".btn ",
+			".btn",
+			"bold",
+			"(",
+			"Human ",
+			"[",
+			"font_to_pixels",
+			"gen_images",
+			"ImageDraw",
+			"meas",
+			"num_meas",
+			"idx",
+			"boxplot",
+			"data=",
+			"data",
+			"_DIscretePlotter",
+			"_DiscretePlotter",
+			"kwargs",
+			"_DiscretePlotter(",
+			"_DiscretePlotter",
+			"_DIscretePlotter",
+			"establish_plot_kind",
+			"kind",
+			"_DISCretePlotter(",
+			"_DISCretePlotter",
+			"factor_plot",
+			"line",
+			"555555",
+			"#fff4",
+			"#fff",
+			"body",
+			"footer",
+			"border"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"data.",
+			"/static/",
+			"syn",
+			"none",
+			"affine",
+			"'syn'",
+			"syn",
+			"SyN",
+			"Initial",
+			"Affine",
+			"Affine+SyN",
+			".",
+			"\\n",
+			"",
+			"doc",
+			"pinfo",
+			"{%",
+			"%}",
+			"{%",
+			"outData"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.634342811627,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "default.sublime-project",
+	"replace":
+	{
+		"height": 78.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 209.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}

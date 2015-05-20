@@ -55,3 +55,7 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# django settings file
+settings.py
+

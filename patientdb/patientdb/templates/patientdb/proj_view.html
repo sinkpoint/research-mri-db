@@ -1,0 +1,46 @@
+{% extends "patientdb/blank.html" %}
+{% load render_table from django_tables2 %}
+{% block content %}
+<div class="row">
+    <div class="col-md-8">
+    <h1 class="page-heading">Project Details</h1>
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            Details
+            <div class="pull-right">
+                <div class="btn-group">
+                <button type="button" class="dropdown-toggle btn btn-primary btn-xs" data-toggle="dropdown">Actions</button>
+                <ul class="dropdown-menu pull-right" role="dropdown">
+                    <li><a href=""><i class="fa fa-edit"> Edit</i></a></li>
+                    <li><a href=""><i class="fa fa-trash"> Delete</i></a></li>
+                </ul>
+                </div>
+            </div>
+        </div>
+        <div class="panel-body">
+            <dl class="dl-horizontal">
+                <dt>ID</dt>
+                <dd>{{data.id}}</dd>
+                <dt>Title</dt>
+                <dd>{{data.title}}</dd>
+                <dt>Status</dt>
+                <dd>{{data.project_status.name}}</dd>
+            </dl>
+        </div>
+    </div>
+    </div>
+</div>
+<div class="row">
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            Subjects
+        </div>
+        <div class="panel-body">
+                {% render_table table "patientdb/table.html" %}
+        </div>
+    </div>
+
+    </div>
+</div>
+
+{% endblock content %}

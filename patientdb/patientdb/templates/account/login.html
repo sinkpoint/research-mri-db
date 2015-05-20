@@ -1,0 +1,27 @@
+{% extends "account/base.html" %}
+{% load bootstrap3 %}
+{% load i18n %}
+{% load account %}
+
+{% block head_title %}{% trans "Sign In" %}{% endblock %}
+
+{% block title %}
+{% trans "Sign In" %}
+{% endblock %}
+{% block inner_content %}
+
+        <h3>Login to your account</h3>
+
+        <form class="login" method="POST" action="{% url 'account_login' %}">
+            {% csrf_token %}
+            {% bootstrap_form form %}
+            {% if redirect_field_value %}
+            <input type="hidden" name="{{ redirect_field_name }}" value="{{ redirect_field_value }}" />
+            {% endif %}
+            <a class="button secondaryAction" href="{% url 'account_reset_password' %}">{% trans "Forgot Password?" %}</a>
+            <p><a href="{{ signup_url }}">Register</a></p>
+            <button class="btn btn-lg btn-success btn-block" type="submit">{% trans "Sign In" %}</button>
+
+        </form>
+
+{% endblock %}
